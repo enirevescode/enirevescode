@@ -20,6 +20,7 @@ Je crée des sites web sur mesure avec la création de thème et plugin mais pas
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" alt='Sass' src='https://img.shields.io/badge/Sass-100000?style=for-the-badge&logo=Sass&logoColor=white&labelColor=F132D2&color=F426A8'/></code>
+<img height="20" alt='Php' src='https://img.shields.io/badge/Php_8-100000?style=for-the-badge&logo=Php&logoColor=A0C7DE&labelColor=1E282C&color=5F92AD'/>
  
 Si vous avez un besoin je suis … LA !
 🌞
