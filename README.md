@@ -19,6 +19,7 @@ Je crée des sites web sur mesure avec la création de thème et plugin mais pas
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img height="20" alt='Sass' src='https://img.shields.io/badge/Sass-100000?style=for-the-badge&logo=Sass&logoColor=white&labelColor=F132D2&color=F426A8'/></a>
  
 Si vous avez un besoin je suis … LA !
 🌞
